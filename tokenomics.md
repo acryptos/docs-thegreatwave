@@ -35,7 +35,9 @@ Emissions distribution:
 
 ### Farm Boost
 
-[Similar to ACryptoS](https://docs.acryptos.com/acryptos-farms#farm-rewards-boost), TGW holders can boost their Farm returns by up to 2.5 times. Unlike in ACryptoS, TGW is transferable, and Farm boost will be calculated using a time-weighted average of users’ TGW holdings, including TGW staked in NFTs.
+[Similar to ACryptoS](https://docs.acryptos.com/acryptos-farms#farm-rewards-boost), TGW holders can boost their Farm returns by up to 2.5 times. 
+
+Unlike in ACryptoS, TGW is transferable, and Farm boost will be calculated using a time-weighted average of users’ TGW holdings, including TGW staked in NFTs.
 
 The amount of boost is determined using the same formula as in ACryptoS:
 
@@ -52,5 +54,11 @@ TGW NFTs will be able to have TGW staked inside each NFT, which can be unstaked 
 
 ### Notes
 
-There are some novel ideas in the Tokenomics here. Liquidity is built into the Governance Vault, so there is no longer a need to separately incentivise liquidity. It also means Governance Vault holders are expected to take on IL risk. The TGW withdrawal fee acts as a lock-in for the Founding Team and early investors. NFTs play a central role in the project’s Tokenomics.
+There are some novel ideas in the Tokenomics here. 
+
+Liquidity is built into the Governance Vault, so there is no longer a need to separately incentivise liquidity.
+
+* It also means Governance Vault holders are expected to take on Impermanent Loss risk. 
+* The TGW withdrawal fee acts as a lock-in for the Founding Team and early investors. 
+* NFTs play a central role in the project’s Tokenomics.
 
