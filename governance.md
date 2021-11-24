@@ -13,13 +13,13 @@ The founding team consists of musician [Charlie Lim](https://twitter.com/wherewa
 
 #### About Charlie Lim
 Charlie Lim, is a Singaporean singer-songwriter, musician, producer and artist.
-* https://instagram.com/wherewascharlie
-* https://lnk.to/charlielim
+* [https://instagram.com/wherewascharlie](https://instagram.com/wherewascharlie)
+* [https://lnk.to/charlielim](https://lnk.to/charlielim)
 
 #### About Acryptos
 ACryptoS offers 3 products on Binance Smart Chain: 
 * yield optimizer: ACS Vaults
 * next-gen AMM: ACSI Finance
 * stablecoin DEX: ACSI StableSwap
-Tokenomics and fees are designed for safety and sustainability (https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f), rewarding long term holders of our ACS and ACSI governance tokens.
-For more info, https://www.acryptos.com
+Tokenomics and fees are designed for [safety and sustainability](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f), rewarding long term holders of our ACS and ACSI governance tokens.
+For more info, [https://www.acryptos.com](https://www.acryptos.com)
