@@ -10,7 +10,7 @@ description: Artist Collective DAO
 
 By artists, for artists.
 
-ArtTech. Art x Crypto.
+**ArtTech. Art x Crypto.**
 
 ### The Great Wave
 
@@ -20,14 +20,14 @@ We believe in the inevitable future of blockchain/web 3.0/NFTs/decentralisation,
 
 ### First Wave
 
-Core DAO vote on treasury to commission work and hire staff/project managers for marketing campaigns to drive hype + social media/discord management + partnership with marketplaces
+* Core DAO vote on treasury to commission work and hire staff/project managers for marketing campaigns to drive hype + social media/discord management + partnership with marketplaces
 
-Front-facing artist lineup to market and promote movement, legitimise use case to encourage mainstream adoption
+* Front-facing artist lineup to market and promote movement, legitimise use case to encourage mainstream adoption
 
-Designers/Consultants/Developers to support and help onboard & gamify assets into NFTs
+* Designers/Consultants/Developers to support and help onboard & gamify assets into NFTs
 
-Revenue generated to be reinvested in treasury and/or distributed to TGW holders
+* Revenue generated to be reinvested in treasury and/or distributed to TGW holders
 
-Leadership is paramount especially in the beginning phases, but we must encourage and elevate community contributors’ creativity and contribution in order to progressively move towards decentralisation - allow for more autonomous projects to be developed and approved
+* Leadership is paramount especially in the beginning phases, but we must encourage and elevate community contributors’ creativity and contribution in order to progressively move towards decentralisation - allow for more autonomous projects to be developed and approved
 
-Our larger goal aims towards becoming a multi-disciplined network of artists, designers and developers, with specific sub-labels to curate various genres
+* Our larger goal aims towards becoming a multi-disciplined network of artists, designers and developers, with specific sub-labels to curate various genres
