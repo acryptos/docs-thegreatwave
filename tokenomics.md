@@ -37,3 +37,15 @@ The amount of boost is determined using the same formula as in ACryptoS:
 1.5 \* \[% user's share of Governance Vault] \* \[TVL in Farm]&#x20;
 
 (up to a maximum of 2.5X of users’ holdings in Farm)
+
+
+
+### NFTs
+
+TGW NFTs will be able to have TGW staked inside each NFT, which can be unstaked by burning the NFT, setting a base value for each NFT. TGW staked in users’ NFTs boost their Farm returns by up to 2.5 times.
+
+
+### Comments
+
+There are some novel ideas in the Tokenomics here. Liquidity is built into the Governance Vault, so there is no longer a need to separately incentivise liquidity. It also means Governance Vault holders are expected to take on IL risk. The TGW withdrawal fee acts as a lock-in for the Founding Team and early investors. NFTs play a central role in the project’s Tokenomics.
+
