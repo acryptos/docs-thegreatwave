@@ -1,6 +1,3 @@
-need some get started info on how to form the LP, buy WAV, and vault it ( in fiuture)
-
-
 
 ## Trading/Listing, Supply Cap
 
