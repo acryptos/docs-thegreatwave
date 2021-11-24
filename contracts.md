@@ -4,4 +4,4 @@
 
 
 ### Notes:
-**WVP** The Great Wave Pool is is a Balancer V2 LP, on the [Acsi.Finance](https://acsi.finance) deployment, on Binance Smart Chain.
+**WVP** The Great Wave Pool is a Balancer V2 LP, on the [ACSI.Finance](https://acsi.finance) deployment, on Binance Smart Chain.
