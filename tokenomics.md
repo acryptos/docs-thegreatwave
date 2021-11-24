@@ -26,10 +26,10 @@ Emissions distribution:
 
 ### Genesis
 
-* 300,000 WAV were minted, and pooled with $200,000 of liquidity provided by the Founding Team, giving WAV an initial value of $1, creating $500,000 of WVP.
-* $200,000 WVP was staked into TGW and given to the Founding Team.
-* $270,000 WVP was staked into TGW and given to the Treasury. 
-* $30,000 WVP was given to the Treasury.
+* 415,888 WAV were minted, and pooled with $200,000 of liquidity provided by the Founding Team, giving WAV an initial value of $1, creating $700,000 of WVP.
+* $280,000 WVP was staked into TGW and given to the Founding Team.
+* $378,000 WVP was staked into TGW and given to the Treasury. 
+* $42,000 WVP was given to the Treasury.
 
 **Effectively 94% of WAV and WVP was locked into TGW which has a 90% withdrawal fee for the first 6 months of the project, reducing to 15% in months 6-12.**
 
