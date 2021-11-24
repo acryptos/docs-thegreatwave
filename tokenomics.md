@@ -1,6 +1,8 @@
 ## Tokenomics
 
-WAV is our Native Token, on Binance Smart Chain. WVP (WAV Pool) is our Core LP, consisting of WAV-ACS-BNB in 6:2:2 ratio. It is a Balancer V2 LP, on the Acsi.Finance deployment, on Binance Smart Chain. TGW is our Governance Vault, consisting of staked WVP. It governs the DAO, and also earns DAO revenue and emissions, which will be automatically compounded in the Vault. Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared among the remaining TGW holders.
+**WAV** is our Native Token, on Binance Smart Chain.
+**WVP (WAV Pool)** is our Core LP, consisting of **WAV-ACS-BNB** in 6:2:2 ratio. It is a Balancer V2 LP, on the [Acsi.Finance](https://app.acsi.finance/#/pool/0x44a9ce69ef2a71a9630697ca5cab3f4adaf8f90d00010000000000000000001a) deployment, on Binance Smart Chain. 
+**TGW** is our Governance Vault, consisting of staked **WVP**. It governs the DAO, and also earns DAO revenue and emissions, which will be automatically compounded in the Vault. Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared among the remaining TGW holders.
 
 TGW withdrawal fee is set at 90% for the first 6 months after launch, reducing to 15% in months 6-12. **This is in effect a lockup for TGW holders for the first 6 months of the project with a punitive 90% withdrawal fee.**
 
@@ -10,19 +12,15 @@ TGW withdrawal fee is set at 90% for the first 6 months after launch, reducing t
 
 Emissions distribution:
 
-60% to TGW
+* 60% to TGW
+* 10% to Treasury
+* 30% to Farms
 
-10% to Treasury
+#### Initial Farm allocations (TBC):
 
-30% to Farms
-
-Initial Farm allocations (TBC):
-
-WVP 5X
-
-WAV-BNB PancakeSwap LP 1X
-
-A2B2 1X
+* WVP 5X
+* WAV-BNB PancakeSwap LP 1X
+* A2B2 1X
 
 ### Genesis
 
