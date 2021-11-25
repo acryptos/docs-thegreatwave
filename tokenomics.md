@@ -52,7 +52,7 @@ The amount of boost is determined using the same formula as in ACryptoS:
 
 
 
-### NFTs
+### Governance NFTs
 
 TGW NFTs will be able to have TGW staked inside each NFT, which can be unstaked by burning the NFT, setting a base value for each NFT. TGW staked in users’ NFTs boost their Farm returns by up to 2.5 times.
 
