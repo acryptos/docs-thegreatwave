@@ -17,7 +17,7 @@ Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared a
 
 ### Emissions
 
-3000 WAV per day will be emitted, reducing by 16.88% every 88 days to give a maximum supply of 1,863,981 WAV.
+3000 WAV per day will be emitted, reducing by 16.88% every 88 days to give a maximum supply of 1,979,869 WAV.
 
 Emissions distribution:
 
@@ -31,6 +31,8 @@ Emissions distribution:
 * WAV-BNB PancakeSwap LP 1X
 * [A2B2 Onsen Pool](https://app.acryptos.com/core/) 1X
 
+![WAV Token Emission](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/b43b27fdf6368e2018a04f2e205d3634c6235e74/img/WAV-Token-Emission.svg "WAV Token Emission")
+
 ### Genesis
 
 * [415,888 WAV](https://bscscan.com/tx/0x2fc52fbcb89abe63f8e14dfc0eda62363d19472daecb95be59af6c0e70cbf618) were minted, and pooled with $284,112 of liquidity provided by the Founding Team, giving WAV an initial value of $1, creating [$700,000 of WVP](https://bscscan.com/tx/0x6b9a83485552b0e3336ae0c05f55b98db60faf5ff4d74a9a5f2c26de38e83464).
@@ -39,6 +41,8 @@ Emissions distribution:
 * $42,000 WVP was given to the Treasury. (TBC)
 
 **Effectively 94% of WAV and WVP was locked into TGW which has a 90% withdrawal fee for the first 6 months of the project, reducing to 15% in months 6-12.**
+
+
 
 ### Farm Boost
 
