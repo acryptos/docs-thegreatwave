@@ -1,6 +1,7 @@
 ## Governance
 
 **TGW** holders govern the DAO, and control the treasury. 
+
 An elected Core DAO administers the Treasury and controls its multi-sig, this will initially consist of 
 * [Charlie Lim](https://twitter.com/wherewascharlie)
 * [x - Acryptos](https://twitter.com/acryptosx)
