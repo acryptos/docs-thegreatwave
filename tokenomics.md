@@ -13,6 +13,8 @@ Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared a
 * TGW withdrawal fee is set at 90% for the first 6 months after launch, reducing to 15% in months 6-12. 
 * **This is in effect a lockup for TGW holders for the first 6 months of the project with a punitive 90% withdrawal fee.**
 
+![Governance Vault Fees Cut Schedule](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/0fa448ec909938ff360895121708643ce6ddc97d/img/TGW-withdrawalfees-schedule.svg "Governance Vault Fees Cut Schedule")
+
 ### Emissions
 
 3000 WAV per day will be emitted, reducing by 16.88% every 88 days to give a maximum supply of 1,863,981 WAV.
