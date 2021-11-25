@@ -18,8 +18,7 @@ The founding team consists of musician [Charlie Lim](https://twitter.com/wherewa
 * [https://instagram.com/wherewascharlie](https://instagram.com/wherewascharlie)
 * [https://lnk.to/charlielim](https://lnk.to/charlielim)
 
-
-
+---
 
 ### About Acryptos
 ACryptoS offers 3 products on Binance Smart Chain: 
@@ -31,8 +30,7 @@ Tokenomics and fees are designed for [safety and sustainability](https://medium.
 
 For more info, [www.acryptos.com](https://www.acryptos.com)
 
-
-
+---
 
 ### About Clarence Chan, founder of Bandwagon Asia
 [Clarence](https://twitter.com/clarencechanxy) is the founder of [Bandwagon](https://www.bandwagon.asia/about), Southeast Asia’s leading music media company whose vision is to champion and spotlight music in Asia. Bandwagon has been referenced by The New York Times, Billboard, TechCrunch, Teen Vogue and has created content with artists including Dua Lipa, Troy Sivan, IV of Spades, and Priscilla Abby. Bandwagon features thought leaders across top entertainment companies and is well networked with global and regional labels. Clarence was recognised as 1 of 20 Future Shapers by PEAK Magazine in 2019. 
@@ -41,5 +39,19 @@ For more info, [www.acryptos.com](https://www.acryptos.com)
 * [https://www.instagram.com/clarencechanxy/](https://www.linkedin.com/in/clarencechanxy/)
 * [https://www.instagram.com/bandwagonasia/](https://www.instagram.com/bandwagonasia/)
 * [https://twitter.com/BandwagonAsia](https://twitter.com/BandwagonAsia)
+
+---
+
+### About Clarence Yap
+* *Co-founder Foundation Music*
+* *Director, Umami Records*
+* *Co-founder, The Music Circle*
+
+[Clarence Yap](https://www.linkedin.com/in/clarenceyap/) is a music entrepreneur and industry veteran of 15 years, driven by his passion to make a positive impact through music, driving businesses in different areas of the industry. He co-founded Foundation Music, a music management agency with fellow music industry colleagues to help propel exceptional Singapore talents to the international stage, and is Director of Umami Records, a Singapore-based indie record label founded in 2013, that strongly believes in discovering new, interesting sounds that run underground and away from the mainstream. He also co-founded The Music Circle with like-minded music educators to introduce innovative approaches to music education.
+
+Before venturing out on his own in 2015, Clarence was Head of Music Programming at Esplanade-Theatres on the Bay, where he helped define the national arts centre’s musical heart for 8 years. He worked with artists from all over the world in producing festivals and concerts for the Mosaic Music series.
+
+* [https://www.umamirecords.sg/](https://www.umamirecords.sg/)
+* [https://themusiccircle.com.sg/](https://themusiccircle.com.sg/)
 
 
