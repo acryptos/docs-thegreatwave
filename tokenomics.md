@@ -25,9 +25,9 @@ Emissions distribution:
 
 #### Initial Farm allocations (TBC):
 
-* WVP 5X
+* [WVP](https://app.acsi.finance/#/pool/0x44a9ce69ef2a71a9630697ca5cab3f4adaf8f90d00010000000000000000001a) ACSI.finance 5X
 * WAV-BNB PancakeSwap LP 1X
-* A2B2 1X
+* [A2B2 Onsen Pool](https://app.acryptos.com/core/) 1X
 
 ### Genesis
 
