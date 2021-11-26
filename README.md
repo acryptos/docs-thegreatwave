@@ -31,3 +31,5 @@ We believe in the inevitable future of blockchain/web 3.0/NFTs/decentralisation,
 * Leadership is paramount especially in the beginning phases, but we must encourage and elevate community contributors’ creativity and contribution in order to progressively move towards decentralisation - allow for more autonomous projects to be developed and approved
 
 * Our larger goal aims towards becoming a multi-disciplined network of artists, designers and developers, with specific sub-labels to curate various genres
+
+![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/35538f31da01b8a14dee976072a989a1765575ef/img/TGW-flowcycle.svg)
