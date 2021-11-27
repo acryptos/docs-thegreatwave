@@ -19,3 +19,30 @@ The Great Wave (WAV) is currently listed on:
 
 ### 2. How to vault WVP as a governance token
 * guide available soon
+
+
+## Governance and Voting
+
+### 1. Is there a treasury?
+
+* Yes. A treasury was formed to fund anything that adds value to the protocol, taking up to 10% of WAV emissions.
+
+### 2. What is the main goal of the treasury?
+
+* Beyond commissioning works for the Collective, the treasury funds will be used to add value/improve the project \(marketing/pr/administration/management/audits/etc\) 
+
+### 3. Who controls the treasury?
+
+* The treasury is controlled via governance.
+
+### 4. Who can vote?
+
+* WAV held in the TGW Governance Vault will form governance tokens. Voting weight is measured in TGW.
+
+### 5. Why TGW and not WAV as the governance token
+
+* TGW being the vaulted WAV LP, commits long term holder to be able to vote on proposal/issues, while benefiting from the protocol's earning. Given the longer term staking nature of TGW, it helps prevent short term vote manipulations as well.
+
+### 6. Which governance platform is used for voting?
+
+* We will be using the well-established gasless [governance client](https://snapshot.page) by Snapshot Labs.
