@@ -9,7 +9,7 @@ The Great Wave (WAV) is currently listed on:
 
 ### 2. What is the maximum supply cap?
 
-* The maximum supply cap for WAV is 1,863,981.
+* The maximum supply cap for WAV is 1,979,869.
 
 
 ## How to get started
