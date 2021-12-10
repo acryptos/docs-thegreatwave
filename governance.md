@@ -63,14 +63,14 @@ Before venturing out on his own in 2015, Clarence was Head of Music Programming 
 
 [Justin Long](https://www.instagram.com/_justinlong/) is the founder and creative director of **Hjgher Studio**, a creative consultancy with a cross-disciplinary approach to brand strategy, interior and art direction and design thinking. His work has been awarded by D&AD, ADC, AIGA, One Show, World Architecture Festival and the President's Design Award. 
 
-Justin is the founder and chief editor of <span style="text-decoration: underline"><b>U</b></span>**nderscore**, an international multimedia organisation that produced symposiums together with Kinfolk, Cereal, Monocle, etc, design festivals backed by Design Singapore, Singapore Tourism Board and Economic Development Board, and video and print publications featuring inspirational creatives from renowned curator Hans Ulrich Olbrist, to designer Hussein Chalayan, to musicians Jaime XX and Sigur Ros. 
+Justin is the founder and chief editor of **U̲nderscore**, an international multimedia organisation that produced symposiums together with Kinfolk, Cereal, Monocle, etc, design festivals backed by Design Singapore, Singapore Tourism Board and Economic Development Board, and video and print publications featuring inspirational creatives from renowned curator Hans Ulrich Olbrist, to designer Hussein Chalayan, to musicians Jaime XX and Sigur Ros. 
 
 Justin was on the founding committee of **The Design Society Singapore**, a non-profit organisation that aims to promote visual culture through exhibitions, workshops and education. 
 
 With his current role as an art curator, collector and tech advocate, he holds advisory roles to creative projects seeking to understand and utilise technological advancements in the art world.
 
 * [Hjgher Studio](https://www.instagram.com/hjgher/)
-* [Underscore](https://www.instagram.com/underscoremag/)
+* [U̲nderscore](https://www.instagram.com/underscoremag/)
 * [The Design Society Singapore](https://www.instagram.com/designsocietysg/)
 
 ---
