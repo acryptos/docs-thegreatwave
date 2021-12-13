@@ -8,28 +8,22 @@ description: Artist Collective DAO
 
 ## An Artist Collective DAO
 
-By artists, for artists.
+To create an ecosystem for artists and their patrons, music/art lovers, developers and investors that grows sustainably, provides and promotes quality work, community, and collaboration.
 
-**ArtTech. Art x Crypto.**
-
-### The Great Wave
-
-To create an ecosystem for artists, music/art lovers, developers and investors that grows sustainably, provides and promotes quality work, community, and collaboration.
-
-We believe in the inevitable future of blockchain/web 3.0/NFTs/decentralisation, and we want to help position artists to ride this great wave over the rising tide.
+We believe that the advent of decentralised finance and the composability that blockchain technology brings will empower individuals and communities with more opportunities, resources, agency and ownership. As the world sits on the cusp of a new technological renaissance and creator economy, we want to help position artists ride this great wave over the rising tide.  
 
 ### First Wave
 
-* Core DAO vote on treasury to commission work and hire staff/project managers for marketing campaigns to drive hype + social media/discord management + partnership with marketplaces
+* Core DAO vote on treasury to commission work
 
-* Front-facing artist lineup to market and promote movement, legitimise use case to encourage mainstream adoption
+* Front-facing artist lineup to promote movement
 
-* Designers/Consultants/Developers to support and help onboard & gamify assets into NFTs
+* Designers/Consultants/Developers to support and help onboard & gamify assets
 
-* Revenue generated to be reinvested in treasury and/or distributed to TGW holders
+* Hire staff/project managers for marketing campaigns + social media/discord management + partnerships with marketplaces and applications
 
-* Leadership is paramount especially in the beginning phases, but we must encourage and elevate community contributors’ creativity and contribution in order to progressively move towards decentralisation - allow for more autonomous projects to be developed and approved
+* Revenue generated to be reinvested in treasury and distributed to TGW holders
 
-* Our larger goal aims towards becoming a multi-disciplined network of artists, designers and developers, with specific sub-labels to curate various genres
+* While leadership is paramount especially in the beginning phases of the DAO, we must encourage and elevate community contributors’ creativity and contribution in order to progressively move towards decentralisation - allow for more autonomous projects to be developed and approved
 
-![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/TGW-flowcycle.svg)
+![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/35538f31da01b8a14dee976072a989a1765575ef/img/TGW-flowcycle.svg)
