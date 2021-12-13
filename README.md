@@ -28,4 +28,4 @@ As the world sits on the cusp of a new technological renaissance and creator eco
 
 * While leadership is paramount especially in the beginning phases of the DAO, we must encourage and elevate community contributors’ creativity and contribution in order to progressively move towards decentralisation - allow for more autonomous projects to be developed and approved
 
-![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/35538f31da01b8a14dee976072a989a1765575ef/img/TGW-flowcycle.svg)
+![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/TGW-flowcycle.svg)
