@@ -10,7 +10,9 @@ description: Artist Collective DAO
 
 To create an ecosystem for artists and their patrons, music/art lovers, developers and investors that grows sustainably, provides and promotes quality work, community, and collaboration.
 
-We believe that the advent of decentralised finance and the composability that blockchain technology brings will empower individuals and communities with more opportunities, resources, agency and sense of ownership. As the world sits on the cusp of a new technological renaissance and creator economy, we want to help position artists ride the great wave over this rising tide through our combined efforts as a collective.  
+We believe that the advent of decentralised finance and the composability that blockchain technology brings will empower individuals and communities with more opportunities, resources, agency and sense of ownership. 
+
+As the world sits on the cusp of a new technological renaissance and creator economy, we want to help position artists ride the great wave over this rising tide through our combined efforts as a collective.  
 
 ### First Wave
 
