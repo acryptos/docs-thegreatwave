@@ -13,7 +13,10 @@ Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared a
 * TGW withdrawal fee is set at 90% for the first 6 months after launch, reducing to 15% in months 6-12. 
 * **This is in effect a lockup for TGW holders for the first 6 months of the project with a punitive 90% withdrawal fee.**
 
-![Governance Vault Fees Cut Schedule](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/0fa448ec909938ff360895121708643ce6ddc97d/img/TGW-withdrawalfees-schedule.svg "Governance Vault Fees Cut Schedule")
+
+![WAV Token](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/WAV-Token-Pie.svg "WAV Token Distribution")
+
+![Governance Vault Fees Cut Schedule](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/TGW-withdrawalfees-schedule.svg "Governance Vault Fees Cut Schedule")
 
 ### Emissions
 
@@ -31,7 +34,7 @@ Emissions distribution:
 * WAV-BNB PancakeSwap LP 1X
 * [A2B2 Onsen Pool](https://app.acryptos.com/core/) 1X
 
-![WAV Token Emission](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/b43b27fdf6368e2018a04f2e205d3634c6235e74/img/WAV-Token-Emission.svg "WAV Token Emission")
+![WAV Token Emission](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/WAV-Token-Emission.svg "WAV Token Emission")
 
 ### Genesis
 

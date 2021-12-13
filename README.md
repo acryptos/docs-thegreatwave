@@ -32,4 +32,4 @@ We believe in the inevitable future of blockchain/web 3.0/NFTs/decentralisation,
 
 * Our larger goal aims towards becoming a multi-disciplined network of artists, designers and developers, with specific sub-labels to curate various genres
 
-![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/35538f31da01b8a14dee976072a989a1765575ef/img/TGW-flowcycle.svg)
+![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/TGW-flowcycle.svg)
