@@ -27,7 +27,7 @@ The Great Wave (WAV) is currently listed on:
 * guide available soon
 
 ### 5. It's too complicated! any other easier way?
-* we will be launching the Governance NFT, where TGW governance token will be imbue within, allowing one to own the NFT to be part of the DAO.
+* we will be launching the Governance NFT, where TGW governance token will be imbued within, allowing one to own the NFT to be part of the DAO.
 
 
 ## Governance and Voting
