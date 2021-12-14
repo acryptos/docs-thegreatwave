@@ -18,16 +18,16 @@ The Great Wave (WAV) is currently listed on:
 * [ACSI.finance (HOW TO video tutorial)](https://www.youtube.com/watch?v=oe5DyLA1p0I) by [CryptoBKT](https://t.me/cryptoBKT)
 
 ### 2. Can I form WVP LP from WAV?
-* yes. you may use WAV to form WVP without the other tokens. This method is easier but sub-optimal, means you may get less WVP by doing so.
+* Yes. You may use WAV to form WVP without the other tokens. This method is easier but sub-optimal, means you may get less WVP by doing so.
 
 ### 3. Why would anyone want to buy WVP?
-* you will need WVP to stake in order to get the governance token.
+* You will need WVP to stake in order to get the governance token.
 
 ### 4. How to vault WVP as a governance token
-* guide available soon
+* Guide available soon
 
 ### 5. It's too complicated! any other easier way?
-* we will be launching the Governance NFT, where TGW governance token will be imbued within, allowing one to own the NFT to be part of the DAO.
+* We will be launching the Governance NFT, where TGW governance token will be imbued within, allowing one to own the NFT to be part of the DAO.
 
 
 ## Governance and Voting
