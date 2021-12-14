@@ -68,11 +68,8 @@ TGW NFTs will be able to have TGW staked inside each NFT, which can be unstaked 
 
 ### Notes
 
-There are some novel ideas in the Tokenomics here. 
-
 Liquidity is built into the Governance Vault, so there is no longer a need to separately incentivise liquidity.
 
-* It also means Governance Vault holders are expected to take on Impermanent Loss risk. 
-* The TGW withdrawal fee acts as a lock-in for the Founding Team and early investors. 
-* NFTs play a central role in the project’s Tokenomics.
+It also means Governance Vault holders are expected to take on Impermanent Loss risk. 
 
+The TGW withdrawal fee acts as a lock-in for the Founding Team and early investors. 
