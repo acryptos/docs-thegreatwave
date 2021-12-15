@@ -12,7 +12,7 @@ To create an ecosystem for artists and their patrons, music/art lovers, develope
 
 We believe that the advent of decentralised finance and the composability that blockchain technology brings will empower individuals and communities with more opportunities, resources, agency and sense of ownership. 
 
-As the world sits on the cusp of a new technological renaissance and creator economy, we want to help position artists ride the great wave over this rising tide through our combined efforts.  
+As the world sits on the cusp of a new technological renaissance and creator economy, we want to help position artists ride the great wave over this rising tide through our combined efforts as a collective.  
 
 ### First Wave
 
