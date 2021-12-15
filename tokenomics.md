@@ -10,8 +10,8 @@ It governs the DAO, and also earns DAO revenue and emissions, which will be auto
 
 Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared among the remaining TGW holders.
 
-* TGW withdrawal fee is set at 90% for the first 6 months after launch, reducing by 15% each month from months 6-12. 
-* **This is in effect a lockup for TGW holders for the first 6 months of the project with a punitive 90% withdrawal fee.**
+* TGW withdrawal fee is set at 88% for the first 6 months after launch, reducing by 15% each month from months 6-12. 
+* **This is in effect a lockup for TGW holders for the first 6 months of the project with a punitive 88% withdrawal fee.**
 
 
 ![WAV Token](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/WAV-Token-Pie.svg "WAV Token Distribution")
