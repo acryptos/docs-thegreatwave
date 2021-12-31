@@ -8,7 +8,8 @@ We are building a new plaform for artists, fans, developers and investors that f
 
 As the world sits on the cusp of a new technological renaissance and creator/investor economy known as Web3, we want to help position artists ride the great wave over this rising tide.
 
-As an ecosystem, The Great Wave aims to set a new precedent based on the following approach:
+
+**As an ecosystem, **The Great Wave aims to set a new precedent based on the following approach:
 
 * DeFi and DAO model allows fans and investors to fund and directly support artists and get return on their investment
 
