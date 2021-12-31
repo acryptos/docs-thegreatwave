@@ -10,7 +10,7 @@ An elected Core DAO administers the Treasury and controls its multi-sig, this wi
 
 ## Founding Team
 
-The founding team consists of musician [Charlie Lim](https://instagram.com/wherewascharlie), developer [X](https://twitter.com/acryptosx) of [ACryptoS](https://acryptos.com), and several veterans from the art and crypto worlds.
+The founding team consists of musician [Charlie Lim](https://instagram.com/wherewascharlie), developer [X](https://twitter.com/acryptosx) of [ACryptoS](https://acryptos.com), and several industry veterans from both the creative arts and tech worlds.
 
 
 ### About Charlie Lim
