@@ -2,7 +2,7 @@
 
 Being in a collective offers flexibility and autonomy, as opposed to being tied down by exclusive deals bloated with opportunity cost. 
 
-We value your indepedence. Instead of owing the label, you own part of the collective.
+We value indepedence and collaboration. Instead of owing the label, you own part of the collective.
 
 The DAO funds your work, provides industry and developer support, exposes your art to new audiences and communities within the Web3 space, and shares the profits with you. 
 
