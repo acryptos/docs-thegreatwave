@@ -6,7 +6,7 @@
 
 **TGW** is our Governance Vault, consisting of staked **WVP**.
 
-It governs the DAO, and also earns DAO revenue and emissions, which will be automatically compounded in the Vault.
+The locked TGW governs the DAO, and also earns DAO revenue and emissions, which will be automatically compounded in the Vault.
 
 Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared among the remaining TGW holders.
 
