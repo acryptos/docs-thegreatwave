@@ -6,4 +6,4 @@ The format of the DAO is inherently open, inclusive, and accountable, sharing va
 
 While the beginning phases of any DAO is founder-led and driven, we must encourage and elevate contributors’ creativity and contribution in order to progressively move towards decentralisation and allow for more projects to be developed and approved autonomously. 
 
-We believe that this structure is key to building a flatter, egalitarian model to help support artists thrive in this industry. 
+We believe that this structure is key to building a flatter, egalitarian model to help support artists in this industry. 
