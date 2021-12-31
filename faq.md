@@ -26,7 +26,7 @@ The Great Wave (WAV) is currently listed on:
 ### 4. How to vault WVP as a governance token
 * Guide available soon
 
-### 5. It's too complicated! any other easier way?
+### 5. It's too complicated! Is there an easier way?
 * We will be launching the Governance NFT, where TGW governance token will be imbued within, allowing one to own the NFT to be part of the DAO.
 
 
@@ -42,7 +42,7 @@ The Great Wave (WAV) is currently listed on:
 
 ### 3. Who controls the treasury?
 
-* The treasury is controlled via governance.
+* The treasury is controlled via governance, and needs to be signed off by the Core DAO.
 
 ### 4. Who can vote?
 
