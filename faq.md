@@ -12,7 +12,7 @@ The Great Wave (WAV) is currently listed on:
 * The maximum supply cap for WAV is 1,979,869.
 
 
-## How to get started
+## How do I stake my WAV and participate in the DAO?
 
 ### 1. How to form WVP LP
 * [ACSI.finance (HOW TO video tutorial)](https://www.youtube.com/watch?v=oe5DyLA1p0I) by [CryptoBKT](https://t.me/cryptoBKT)
