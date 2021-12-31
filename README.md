@@ -23,7 +23,7 @@ As the world sits on the cusp of a new technological renaissance and creator/inv
 
 * Hire staff/project managers for marketing campaigns + social media/discord management + partnerships with marketplaces and applications
 
-* Revenue generated to be reinvested in treasury and distributed to TGW holders
+* Revenue generated to be reinvested in treasury and shared with artists and DAO token holders 
 
 * While the beginning phases of any DAO is founder-led and driven, we must encourage and elevate community contributors’ creativity and contribution in order to progressively move towards decentralisation and allow for more autonomous projects to be developed and approved
 
