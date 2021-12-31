@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Great Wave](README.md)
+* [Artists](artists.md)
 * [Tokenomics](tokenomics.md)
 * [Governance](governance.md)
 * [Contracts](contracts.md)
