@@ -9,7 +9,9 @@ We are building a new plaform for artists, fans, developers and investors that f
 As the world sits on the cusp of a new technological renaissance and creator/investor economy known as Web3, we want to help position artists ride the great wave over this rising tide.
 
 
-**As an ecosystem, **The Great Wave aims to set a new precedent based on the following approach:
+**#Ecosystem#**
+
+The Great Wave aims to set a new precedent based on the following approach:
 
 * DeFi and DAO model allows fans and investors to fund and directly support artists and get return on their investment
 
@@ -20,6 +22,8 @@ As the world sits on the cusp of a new technological renaissance and creator/inv
 * Grow and nurture The Great Wave as a brand and a networking hub, and position ourselves to partner with various Web3/blockchain projects and marketplaces that are building in the music, art and gaming domains
 
 * Revenue generated to be reinvested in treasury and shared with artists and DAO token holders 
+
+![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/TGW-flowcycle.svg)
 
 
 ### First Wave
@@ -35,4 +39,3 @@ As the world sits on the cusp of a new technological renaissance and creator/inv
 * Hire staff/project managers for marketing campaigns + social media/discord management + partnerships with marketplaces and applications
 
 
-![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/TGW-flowcycle.svg)
