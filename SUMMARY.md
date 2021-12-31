@@ -2,6 +2,7 @@
 
 * [The Great Wave](README.md)
 * [Artists](artists.md)
+* [Community](community.md)
 * [Tokenomics](tokenomics.md)
 * [Governance](governance.md)
 * [Contracts](contracts.md)
