@@ -1,4 +1,6 @@
-**There is no one-size-fits-all approach for how artists want to manage their career.**
+**Be Like Water**
+
+There is no one-size-fits-all approach for how artists want to manage their career.
 
 Being in a collective offers flexibility and autonomy, as opposed to being tied down by exclusive deals bloated with opportunity cost. 
 
@@ -8,4 +10,4 @@ The DAO funds your work, provides industry and developer support, exposes your a
 
 The Web3/NFT space can be overwhelming. We want to cut through the noise and help artists navigate this space, by building more opportunities for interactive, two-way artist/fan relationships that incentivises long-term fan rewards. 
 
-We are currently open for artist submissions. Join our Telegram chat and drop us a message. 
+We are currently open for artist submissions. 
