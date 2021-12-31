@@ -15,16 +15,16 @@ As the world sits on the cusp of a new technological renaissance and creator/inv
 
 ### First Wave
 
+* Emissions begin 1 Jan 2022
+
 * Core DAO vote on treasury to commission work
 
 * Front-facing artist lineup to promote movement
 
-* Designers/Consultants/Developers to support and help onboard & gamify digital collectibles
+* Designers/Project Team/Developers to support artists 
 
 * Hire staff/project managers for marketing campaigns + social media/discord management + partnerships with marketplaces and applications
 
 * Revenue generated to be reinvested in treasury and shared with artists and DAO token holders 
-
-* While the beginning phases of any DAO is founder-led and driven, we must encourage and elevate community contributors’ creativity and contribution in order to progressively move towards decentralisation and allow for more autonomous projects to be developed and approved
 
 ![The Great Wave Flow Cycle](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/TGW-flowcycle.svg)
