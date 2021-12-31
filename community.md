@@ -1,4 +1,4 @@
-**What's a DAO?**
+**Why a DAO?**
 
 Investing in The Great Wave is to back and be part of a Decentralized Autonomous Organization that is artist-driven and led in a new creator/investor economy.
 
