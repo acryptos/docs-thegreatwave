@@ -28,11 +28,11 @@ Emissions distribution:
 * 10% to Treasury
 * 30% to Farms
 
-#### Initial Farm allocations (TBC):
+#### Initial Farm allocations :
 
 * [WVP](https://app.acsi.finance/#/pool/0x44a9ce69ef2a71a9630697ca5cab3f4adaf8f90d00010000000000000000001a) ACSI.finance 5X
-* WAV-BNB PancakeSwap LP 1X
-* [A2B2 Onsen Pool](https://app.acryptos.com/core/) 1X
+* [WAV-BNB](https://pancakeswap.finance/add/BNB/0x888888883BF208d3b1AcD0052a88b9Fd07bA5851) PancakeSwap LP 1X
+* [A2B2 WAV Pool](https://app.acryptos.com/wav/) 1X
 
 ![WAV Token Emission](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/WAV-Token-Emission.svg "WAV Token Emission")
 

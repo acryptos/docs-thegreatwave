@@ -54,4 +54,4 @@ The Great Wave (WAV) is currently listed on:
 
 ### 6. Which governance platform is used for voting?
 
-* We will be using the well-established gasless [governance client](https://snapshot.page) by Snapshot Labs.
+* We will be using the well-established gasless [governance client](https://vote.thegreatwave.io/#/) by Snapshot Labs.
