@@ -11,6 +11,7 @@
 
 ### Links
 * [Project Page](https://www.thegreatwave.io/)
+* [App](https://app.thegreatwave.io/)
 * [DAO Telegram Group](https://t.me/thegreatwavedao)
 * [Twitter](https://twitter.com/thegreatwaveio)
 * [Medium](https://medium.com/thegreatwave)
