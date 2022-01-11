@@ -10,7 +10,7 @@ The locked TGW governs the DAO, and also earns DAO revenue and emissions, which 
 
 Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared among the remaining TGW holders.
 
-* TGW withdrawal fee is set at 88% for the first 6 months after launch, reducing by 15% each month from months 6-12. 
+* TGW withdrawal fee is set at 88% for the first 6 months after launch, reducing by 15% each month from months 6-12. Where it will be set at 18% thereafter.
 * **This is in effect a lockup for TGW holders for the first 6 months of the project with a punitive 88% withdrawal fee.**
 
 
