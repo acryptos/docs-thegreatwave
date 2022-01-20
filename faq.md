@@ -20,7 +20,7 @@ The Great Wave (WAV) is currently listed on:
 ### 2. Can I form WVP LP from WAV?
 * Yes. You may use WAV to form WVP without the other tokens. This method is easier but sub-optimal, means you may get less WVP by doing so.
 
-![How to TGW](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/community-thedaoway.png) "How to get TGW")
+![How to TGW](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/community-thedaoway.png "How to get TGW")
 
 ### 3. Why would anyone want to buy WVP?
 * You will need WVP to stake in order to get the governance token.

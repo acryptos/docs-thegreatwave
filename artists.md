@@ -12,4 +12,4 @@ The Web3/NFT space can be overwhelming. We want to cut through the noise and hel
 
 We are currently open for artist submissions. 
 
-![Example #1](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/artists-example1.png) "An Example")
+![Example #1](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/artists-example1.png "An Example")
