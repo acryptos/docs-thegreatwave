@@ -4,6 +4,7 @@
 * [Artists](artists.md)
 * [Community](community.md)
 * [Tokenomics](tokenomics.md)
+* [NFT](nft.md)
 * [Governance](governance.md)
 * [Contracts](contracts.md)
 * [FAQ](faq.md)
