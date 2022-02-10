@@ -14,11 +14,11 @@ As an ecosystem, The Great Wave aims to set a new precedent based on the followi
 
 * DeFi and DAO model allows fans and investors to fund and directly support artists and get return on their investment
 
-* Artists to be paid fairly through commission of their work for the DAO, and can choose to reinvest in the WAV ecosystem 
+* Artists to be paid through commission of their work for the DAO, and can choose to reinvest in the WAV ecosystem 
 
 * Developers, designers and project team help to create and gamify assets for artists, creating more revenue streams while tapping into new audiences and communities
 
-* Grow and nurture The Great Wave as a brand and a networking hub, and position ourselves to partner with various Web3/blockchain projects and marketplaces that are building in the music, art and gaming domains
+* Grow and nurture The Great Wave as a brand and community, and position ourselves to partner with various projects and marketplaces
 
 * Revenue generated to be reinvested in treasury and shared with artists and DAO token holders 
 
@@ -28,7 +28,7 @@ As an ecosystem, The Great Wave aims to set a new precedent based on the followi
 
 * Core DAO vote on treasury to commission work
 
-* Front-facing artist lineup to promote movement
+* Front-facing artist lineup as proof of concept
 
 * Designers/Developers/Project Team to onboard and support artists 
 
