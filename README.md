@@ -18,7 +18,7 @@ As an ecosystem, The Great Wave aims to set a new precedent based on the followi
 
 * Developers, designers and project team help to create and gamify assets for artists, creating more revenue streams while tapping into new audiences and communities
 
-* Grow and nurture The Great Wave as a brand and community, and position ourselves to partner with various projects and marketplaces
+* Grow and nurture The Great Wave as a community where artists can network and collaborate with each other, while positioning ourselves as a brand to partner with various projects and marketplaces
 
 * Revenue generated to be reinvested in treasury and shared with artists and DAO token holders 
 
