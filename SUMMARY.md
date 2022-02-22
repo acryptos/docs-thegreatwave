@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Great Wave](README.md)
+* [Roadmap](roadmap.md)
 * [Artists](artists.md)
 * [Community](community.md)
 * [Tokenomics](tokenomics.md)
@@ -13,7 +14,8 @@
 
 * [Project Page](https://www.thegreatwave.io)
 * [App](https://app.thegreatwave.io)
-* [DAO Telegram Group](https://t.me/thegreatwavedao)
+* [Discord](https://discord.gg/seYDgsgJ)
+* [Telegram](https://t.me/thegreatwavedao)
 * [Twitter](https://twitter.com/thegreatwaveio)
 * [Medium](https://medium.com/thegreatwave)
 * [Governance Vote](https://vote.thegreatwave.io/#/)
