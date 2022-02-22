@@ -1,7 +1,7 @@
 ### First Wave
 
-Q4 2021
-
+**Q4 2021
+**
 ☑️ Refine Tokenomics 
 
 ☑️ Launch Docs/Livepaper
@@ -16,8 +16,8 @@ Q4 2021
 
 ☑️ Test AMA
 
-Q1 2022
-
+**Q1 2022
+**
 ☑️ Emissions Begin
 
 ☑️ Coordinate Marketing Team
