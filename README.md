@@ -25,6 +25,7 @@ As an ecosystem, The Great Wave aims to set a new precedent based on the followi
 ### First Wave
 
 Q4 2021
+
 ☑️ Refine Tokenomics 
 
 ☑️ Launch Docs/Livepaper
@@ -40,6 +41,7 @@ Q4 2021
 ☑️ Test AMA
 
 Q1 2022
+
 ☑️ Emissions Begin
 
 ☑️ Coordinate Marketing Team
