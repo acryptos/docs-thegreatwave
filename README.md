@@ -24,14 +24,24 @@ As an ecosystem, The Great Wave aims to set a new precedent based on the followi
 
 ### First Wave
 
-* Emissions begin 1 Jan 2022
+Q4 2021
+☑️ Refine Tokenomics 
+☑️ Launch Docs/Livepaper
+☑️ Launch LP
+☑️ Build MVP Site
+☑️ Build WAV App
+☑️ Finalize TGW Logo
+☑️ Test AMA
 
-* Core DAO vote on treasury to commission work
-
-* Front-facing artist lineup as proof of concept
-
-* Designers/Developers/Project Team to onboard and support artists 
-
-* Hire staff/project managers for marketing campaigns + social media/discord management + partnerships with marketplaces and applications
-
+Q1 2022
+☑️ Emissions Begin
+☑️ Coordinate Marketing Team
+☑️ Onboarding First Wave of Artists, Producers, Engineers
+☑️ Onboarding Industry Advisors
+☑️ Draft MOU for Commissioning First Wave of Artists 
+🕒 DAO and Artists to Vote and Begin Work
+🕒 Refine Governance NFT Mechanics
+🕒 Key Visual Update for Site
+🕒 Press Release Announcement for Music & Blockchain Media
+🕒 Prepare Assets for Q2 Launch
 
