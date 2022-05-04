@@ -42,7 +42,7 @@ Emissions distribution:
 * $378,000 WVP was staked into TGW and given to the Treasury. (TBC)
 * $42,000 WVP was given to the Treasury. (TBC)
 
-**Effectively 94% of WAV and WVP was locked into TGW which has a 90% withdrawal fee for the first 6 months of the project, reducing to 15% in months 6-12.**
+**Effectively 94% of WAV and WVP was locked into TGW which has a 90% withdrawal fee for the first 6 months of the project, reducing to 18% in months 6-12.**
 
 ## Farm Boost
 
