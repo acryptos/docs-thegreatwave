@@ -23,9 +23,11 @@ Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared a
 
 Emissions distribution:
 
-* 60% to TGW
+* 80% to TGW
 * 10% to Treasury
-* 30% to Farms
+* 10% to Farms
+
+~ Initial emission distributions were 60% TGW, 10% Treasury, 30% Farms but change was voted on 6th June 2022 by the DAO for more weightage to be put towards TGW vault.
 
 ### Initial Farm allocations :
 
