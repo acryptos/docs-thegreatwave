@@ -10,12 +10,9 @@ The locked TGW governs the DAO, and also earns DAO revenue and emissions, which 
 
 Withdrawing from the Governance Vault incurs a withdrawal fee, which is shared among the remaining TGW holders.
 
-* TGW withdrawal fee is set at 88% for the first 6 months after launch (1 Jan 2022). From months 6-12, it will be reduced progressively from 88% to 18%, where it will remain thereafter.
-* **This is in effect a lockup for TGW holders for the first 6 months of the project with a punitive 88% withdrawal fee.**
+* TGW withdrawal fee is set at 88%.
 
-![WAV Token](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/WAV-Token-Pie.svg)
-
-![Governance Vault Fees Cut Schedule](https://raw.githubusercontent.com/acryptos/docs-thegreatwave/main/img/TGW-withdrawalfees-schedule.svg)
+\~ Withdrawal fee was initially planned to be reduced to 18% after 12 months. There will be a governance vote to decide on changes to the withdrawal fee.
 
 ## Emissions
 
@@ -27,7 +24,7 @@ Emissions distribution:
 * 10% to Treasury
 * 10% to Farms
 
-~ Initial emission distributions were 60% TGW, 10% Treasury, 30% Farms but change was voted on 6th June 2022 by the DAO for more weightage to be put towards TGW vault.
+\~ Initial emission distributions were 60% TGW, 10% Treasury, 30% Farms but change was voted on 6th June 2022 by the DAO for more weightage to be put towards TGW vault.
 
 ### Initial Farm allocations :
 
