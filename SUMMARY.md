@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Great Wave](README.md)
+* [Dissolution](dissolution.md)
 * [Roadmap](roadmap.md)
 * [Artists](artists.md)
 * [Community](community.md)
